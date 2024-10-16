@@ -30,7 +30,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 <details>
 <summary>Linux & Command Line</summary>
-
+◊
 |Resource|Progress|
 |---|---|
 |[Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)|✓|
